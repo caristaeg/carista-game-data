@@ -1,9 +1,9 @@
 {
-  "totalPlayerCount": 4,
-  "currentCycleCount": 4,
+  "totalPlayerCount": 0,
+  "currentCycleCount": 0,
   "gameWinners": 0,
-  "gameLosers": 4,
+  "gameLosers": 0,
   "freeDeliveryWinners": 0,
   "wins": [],
-  "lastUpdated": 1758900891913
+  "lastUpdated": 1758901733552
 }
