@@ -1,9 +1,16 @@
 {
-  "totalPlayerCount": 100,
-  "currentCycleCount": 100,
+  "totalPlayerCount": 101,
+  "currentCycleCount": 0,
   "gameWinners": 0,
   "gameLosers": 99,
-  "freeDeliveryWinners": 0,
-  "wins": [],
+  "freeDeliveryWinners": 1,
+  "wins": [
+    {
+      "playerNumber": 101,
+      "cyclePosition": 101,
+      "timestamp": "2025-10-03T22:02:35.287Z",
+      "redeemed": false
+    }
+  ],
   "lastUpdated": 1758901733552
 }
