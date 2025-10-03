@@ -1,8 +1,8 @@
 {
-  "totalPlayerCount": 102,
-  "currentCycleCount": 1,
+  "totalPlayerCount": 103,
+  "currentCycleCount": 2,
   "gameWinners": 0,
-  "gameLosers": 101,
+  "gameLosers": 102,
   "freeDeliveryWinners": 1,
   "wins": [
     {
